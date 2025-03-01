@@ -12,15 +12,13 @@
     margin: 0 0 42px;
 }
 
-.about-subtitle-ru 
-.about-subtitle-ru {
+.about-subtitle-ru .about-subtitle-ru {
     font-size: 18px;
     font-weight: 500px;
     margin: 0 auto 15px;
 }
 
-.about-description-ru
-.about-subtitle-en {
+.about-description-ru .about-subtitle-en {
     font-size: 18px;
     font-weight: 500px;
     margin: 0 auto 15px;
@@ -41,7 +39,8 @@
     .about-subtitle-ru,
     .about-subtitle-en,
     .about-description-ru,
-    .about-description-en,
+    .about-description-en {
         font-size: 14px;
+    }
 
-}    
+}
